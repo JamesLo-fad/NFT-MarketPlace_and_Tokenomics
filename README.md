@@ -10,4 +10,21 @@
 - The token version with authentication, internet identity, is removed for simplicity, but still can refer to the token project in my repositories - "Crypto-Token-DSpartan".
 
 ## Demonstration
-<!-- ![Alt text](DExchange-screenshot.jpg?raw=true "Home-page") -->
+
+1. Home page
+![Alt text](demonstration_images/home.jpg?raw=true "Home-page")
+
+2. Minter page
+![Alt text](demonstration_images/minter.jpg?raw=true "minter-page")
+
+3. Minter success
+![Alt text](demonstration_images/minter_success.jpg?raw=true "minter-success")
+
+4. My NFTs
+![Alt text](demonstration_images/my_nft.jpg?raw=true "My-NFTs")
+
+5. Discover page
+![Alt text](demonstration_images/discover.jpg?raw=true "discover-page")
+
+6. Token exchange
+![Alt text](demonstration_images/token.jpg?raw=true "token-exchange")
